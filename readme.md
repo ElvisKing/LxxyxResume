@@ -9,18 +9,8 @@
 
 ## 安装
 
-1. 添加npm-shrinkwrap.json文件
-```json
-{
-  "dependencies": {
-    "graceful-fs": {
-        "version": "4.2.2"
-     }
-  }
-}
-```
-2. 使用 `npm install` 安装
-3. 全局安装gulp `npm install -g gulp`
+1. 使用 `npm install` 安装
+2. 全局安装gulp `npm install -g gulp`
 
 ps:  由于安装puppeteer的缘故，此步骤可能涉及代理设置访问
 
